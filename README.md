@@ -27,7 +27,7 @@ docker-chapter02-practice/
 ### 1. Clone repository về máy ảo:
 ```bash
 git clone <URL_REPO_GITHUB_CỦA_BẠN>
-cd docker-chapter02-practice
+cd docker-chapter2-practice
 ```
 
 ### 2. Cấp quyền và chạy script setup:
